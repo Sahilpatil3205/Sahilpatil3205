@@ -1,6 +1,6 @@
-# Hi there, I'm Aadesh Gulumbe! 👋
+                                                        # Hi there, I'm Sahil Patil! 👋
 
-### Welcome to my GitHub profile!
+                                                       ### Welcome to my GitHub profile!
 
 I'm a passionate software developer currently pursuing a degree in Information Technology at **PCET's NMIET Talegaon Dabhade, Pune**. With over **40 repositories** and numerous projects across different fields like web development, IoT, and mobile apps, I thrive on solving real-world problems using innovative tech solutions.
 
@@ -19,10 +19,10 @@ I'm a passionate software developer currently pursuing a degree in Information T
 Feel free to explore my repositories to see my full range of work!
 
 ## 🔧 Tech Stack
-- **Languages**: JavaScript, Node.js, Python, C++, Java
-- **Frameworks**: Express.js, React, Next.js, Firebase, Tailwind CSS
-- **Tools**: Arduino IDE, Redux, Clerk Authentication, Firebase, Git
-- **Databases**: MongoDB, Firestore
+- **Languages**: Node.js, Python, C++, Java, SQL
+- **Frameworks**: Express.js, Next.js, Firebase, Tailwind CSS
+- **Tools**: Github,Jupyter Notebook, Firebase, Git, Ubuntu 
+- **Databases**: MongoDB, MySQL, Oracle
 
 ## 🔭 Current Focus
 - Working on **admin modules** in Next.js with Tailwind CSS and authentication using Clerk.
@@ -30,9 +30,8 @@ Feel free to explore my repositories to see my full range of work!
 - Always learning and contributing to open-source!
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aadesh-gulumbe-b965b0246)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/sahil-patil-614172258/)
 - **Portfolio**: [Visit my portfolio](https://www.aadeshgulumbe.me/)
-- **YouTube**: [Subscribe to my YouTube channel](https://www.youtube.com/@marathicodingzone)
 
 
 ## ⚡ Fun Fact
