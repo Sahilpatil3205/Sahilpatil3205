@@ -1,6 +1,6 @@
-                                                        # Hi there, I'm Sahil Patil! 👋
+# Hi there, I'm Sahil Patil! 👋
 
-                                                       ### Welcome to my GitHub profile!
+### Welcome to my GitHub profile!
 
 I'm a passionate software developer currently pursuing a degree in Information Technology at **PCET's NMIET Talegaon Dabhade, Pune**. With over **40 repositories** and numerous projects across different fields like web development, IoT, and mobile apps, I thrive on solving real-world problems using innovative tech solutions.
 
