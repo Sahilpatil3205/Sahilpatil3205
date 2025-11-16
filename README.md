@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **NEXTQUEST AI**  
+- 🔭 I’m currently working on **Skillspectrum AI**  
 - 🌱 I’m currently learning **Generative AI and its effective real-world usage**  
 - 💬 Ask me about **Gen AI, Java, SQL, Data Science**  
 - 📫 How to reach me: **sahilpatilkmp850@gmail.com**  
